@@ -1,6 +1,6 @@
 # tugas1_flutterlayout
 
-Tugas 1 Prakikum TPM Flutter Layout\
+Tugas 1 Prakikum TPM Flutter Layout
 
 Nama  : Lisa Anis Safitri\
 NIM   : 123190089\
